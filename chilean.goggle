@@ -2,7 +2,6 @@
 ! description: Rerank results to boost content on Chilean sites.
 ! author: racuna
 
-$discard
 $downrank,site=mercadolibre.com.ar
 $downrank,site=mercadolibre.com.pe
 $downrank,site=linio.com.pe
@@ -33,3 +32,4 @@ $boost=1,site=24horas.cl
 $boost=1,site=t13.cl
 $boost=1,site=elbaquedano.com
 $boost=1,site=pisapapeles.net
+$boost=1,site=www.falabella.com/falabella-cl
