@@ -1,5 +1,6 @@
 ! name: Chilean Google
 ! description: Rerank results to boost content on Chilean sites.
+! public: true
 ! author: racuna
 
 $downrank,site=mercadolibre.com.ar
