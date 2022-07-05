@@ -34,4 +34,8 @@ $boost=3,site=24horas.cl
 $boost=3,site=t13.cl
 $boost=3,site=elbaquedano.com
 $boost=3,site=pisapapeles.net
-$boost=3,site=site=www.decathlon.cl
+$boost=3,site=www.decathlon.cl
+$boost=3,site=www.red.cl
+$boost=3,site=www.metro.cl
+
+$boost=3,site=*.cl^
