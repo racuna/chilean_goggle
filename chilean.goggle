@@ -38,4 +38,4 @@ $boost=3,site=www.decathlon.cl
 $boost=3,site=www.red.cl
 $boost=3,site=www.metro.cl
 
-$boost=3,site=*.cl^
+$boost=1,site=https://*.cl^
