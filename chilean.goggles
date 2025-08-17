@@ -1,0 +1,40 @@
+! name: Chilean Goggle
+! description: Rerank results to boost content on Chilean sites.
+! public: true
+! author: racuna
+
+$downrank,site=mercadolibre.com.ar
+$downrank,site=mercadolibre.com.pe
+$downrank,site=linio.com.pe
+$downrank,site=linio.com.co
+$downrank,site=buscalibre.com.ar
+$downrank,site=buscalibre.com.co
+$downrank,site=buscalibre.com.mx
+$downrank,site=buscalibre.es
+$downrank,site=buscalibre.pe
+$downrank,site=buscalibre.us
+$downrank,site=buscalibre.co
+$downrank,site=www.decathlon.es
+
+$boost=3,site=mercadolibre.cl
+$boost=3,site=ellibero.cl
+$boost=3,site=yapo.cl 
+$boost=3,site=knasta.cl
+$boost=3,site=www.linio.cl
+$boost=3,site=www.solotodo.cl
+$boost=3,site=pcfactory.cl
+$boost=3,site=sodimac.cl
+$boost=3,site=www.easy.cl
+$boost=3,site=buscalibre.cl
+$boost=3,site=jumbo.cl
+$boost=3,site=emol.com 
+$boost=3,site=latercera.com
+$boost=3,site=biobiochile.cl
+$boost=3,site=24horas.cl
+$boost=3,site=t13.cl
+$boost=3,site=elbaquedano.com
+$boost=3,site=pisapapeles.net
+$boost=3,site=www.decathlon.cl
+$boost=3,site=www.red.cl
+$boost=3,site=www.metro.cl
+$boost=1,site=*.cl^
